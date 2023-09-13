@@ -1,0 +1,13 @@
+body {
+    background-color: azure;
+    font-size: 30px;
+}
+li {
+    font-size:19px;
+}
+.list-item {
+    font-size: 24px;
+}
+#id-item {
+    font-size:44px;
+}
